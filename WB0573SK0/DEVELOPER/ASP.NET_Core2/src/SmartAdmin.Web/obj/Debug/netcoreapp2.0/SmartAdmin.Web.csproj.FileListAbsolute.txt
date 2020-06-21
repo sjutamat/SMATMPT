@@ -1,0 +1,12 @@
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\bin\Debug\netcoreapp2.0\SmartAdmin.Web.deps.json
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\bin\Debug\netcoreapp2.0\SmartAdmin.Web.runtimeconfig.json
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\bin\Debug\netcoreapp2.0\SmartAdmin.Web.runtimeconfig.dev.json
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\bin\Debug\netcoreapp2.0\SmartAdmin.Web.dll
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\bin\Debug\netcoreapp2.0\SmartAdmin.Web.pdb
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\SmartAdmin.Web.csprojAssemblyReference.cache
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\SmartAdmin.Web.csproj.CoreCompileInputs.cache
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\SmartAdmin.Web.AssemblyInfoInputs.cache
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\SmartAdmin.Web.AssemblyInfo.cs
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\SmartAdmin.Web.dll
+E:\Theme\Smart Admin\WB0573SK0\DEVELOPER\ASP.NET_Core2\src\SmartAdmin.Web\obj\Debug\netcoreapp2.0\SmartAdmin.Web.pdb
